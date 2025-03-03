@@ -15,6 +15,7 @@ The website is deployed on GitHub Pages. To run the project locally:
 1. Clone the repository.
 2. Open the `index.html` file in your browser.
 3. For full functionality, ensure that the folder structure (especially for assets) is maintained.
+here is live link to my website       https://kevinkirwa.github.io/final-project-html/
 
 ## Documentation
 Our design focuses on a modern, professional look that reflects the innovative nature of tech solutions. The home page introduces the company, highlights our core services, and displays sample portfolio work. The about page details our journey, mission, vision, and team profiles, including professional images. The contact page features a responsive form that validates user input and provides immediate feedback. Challenges such as ensuring responsive design and cross-browser compatibility were addressed through thorough testing and the use of modern CSS and JavaScript best practices. The deployment on GitHub Pages was straightforward, making the site accessible via a unique URL.
